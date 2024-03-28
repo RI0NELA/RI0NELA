@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Luke</h1>
 <h3 align="center">A young developer from Georgia!</h3>
 
+<img align="right" src="https://github.com/RI0NELA/RI0NELA/blob/main/Flag_of_Georgia_vertical.gif" width="300" height="400">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rino&label=Profile%20views&color=0e75b6&style=flat" alt="rino" /> </p>
 
 - 🌱 I’m currently learning **Lua**
