@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rino&label=Profile%20views&color=0e75b6&style=flat" alt="rino" /> </p>
 
-- 🌱 I’m currently learning **Lua**
+- 🌱 I’m currently learning **Lua and C#**
 
 - ⚡ Fun fact **I started programming in 2022**
 
