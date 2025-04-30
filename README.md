@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luke</h1>
 <h3 align="center">A young developer from Georgia!</h3>
 
-<img align="right" src="https://github.com/RI0NELA/RI0NELA/blob/main/Georgia.gif" width="300" height="400">
+<img align="right" src="https://github.com/RI0NELA/RI0NELA/blob/main/cockatiel.gif" width="300" height="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rino&label=Profile%20views&color=0e75b6&style=flat" alt="rino" /> </p>
 
