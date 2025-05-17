@@ -8,7 +8,7 @@
 
 <h3>🛠️ What I'm Working On</h3>
 <ul>
-  <li>👾 <b>birbDE</b> — A cute and minimal desktop environment for Linux, with birds involved, of course!</li>
+  <li>👾 <b>Birb Executor</b> — A cute birb-themed roblox executor based on Cloudy API!</li>
   <li>🎮 A <b>multiplayer heist</b> game in Unreal Engine 5.5 — <b>Illegal Entry</b></li>
   <li>🧰 Continuously learning Lua and improving my Unreal + Python workflows.</li>
 </ul>
